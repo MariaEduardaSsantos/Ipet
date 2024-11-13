@@ -1157,11 +1157,4 @@ while True:
                 break
 
     elif opcao == "4":
-        break 
-
-print(atendimentos)
-print(usuarios)
-print(clientes)
-print(pets)
-                            
-                
+        break           
